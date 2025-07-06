@@ -43,7 +43,7 @@ $loggedInUser = isset($_SESSION['user_name']) ? $_SESSION['user_name'] : null;
         <img src="image/0003.png" class="parallax-layer layer-4" />
         <img src="image/0002.png" class="parallax-layer layer-5" />
         <img src="image/0001.png" class="parallax-layer layer-6" />
-        <img src="image/0000.png" class="parallax-layer layer-6"   />
+        <img src="image/0000.png" class="parallax-layer layer-7"   />
     </div>
 
     <!-- Hero Section -->
